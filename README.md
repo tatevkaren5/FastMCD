@@ -1,2 +1,4 @@
 # FastMCD
-Custom function of FastMCD. Fast Algorithm for the Minimum Covariance Determinant Estimator by Peter J. Rousseeuw in R.  
+The minimum covariance determinant (MCD) method of Rousseeuw is a highly robust estimator of multivariate location and scatter. Its objective is to find h observations (out of n) whose covariance matrix has the lowest determinant.
+
+
